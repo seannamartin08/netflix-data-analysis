@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 📺 Netflix Data Cleaning, Analysis & Visualization
 **Prepared by Seanna Martin**
 
@@ -24,7 +23,3 @@ Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-=======
-# netflix-data-analysis
-netflix-data-analysis
->>>>>>> d9c3205c597236e7e599f16c91dcd67363929b9e
